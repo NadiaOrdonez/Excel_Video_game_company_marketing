@@ -16,7 +16,7 @@ Plan a marketing campaign for 2017, aiming at increasing the number of units sol
 ### Scope
 Allocate marketing budget for 2017 at the regional level.
 
-## Datasets overview
+## Dataset overview
 Video game sales: The dataset comprises 16588 observations related to video games, encompassing features like genre and historical regional sales spanning from 1980 to 2016.
   
 ## Excel processes
