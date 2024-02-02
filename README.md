@@ -23,7 +23,7 @@ Video game sales: The dataset comprises 16588 observations related to video game
 I conducted data cleaning, consistency checks, and basic statistical analyses on the provided dataset. Later, I pivoted the sales data at the regional level to address the stakeholders business questions and generated visuals to support my recommendations. The cleaned dataset and their associated visuals can be accessed [here](https://docs.google.com/spreadsheets/d/15ciNe15Ozf200XmVtF4T1EBJIamHCf0m/edit?usp=drive_link&ouid=100495170560300906732&rtpof=true&sd=true).
  
 ## Addressing business questions
-Stakekholders were informed about the main data-driven findings with a [Power Point presentation](Final Project Presentation Nadia Ordonez.pdf). 
+Stakekholders were informed about the main data-driven findings with a [Power Point presentation](Final_Project_Presentation.pdf). 
 * Did the historical sales per region remain the same over time?
   * _Data-driven insight_: No, historical sales differ per region. In 2016, EU is the leading market.
   * _Action_: Consider historical sales to allocate a marketing budget.
