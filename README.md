@@ -1,6 +1,8 @@
 # Excel_Video_game_company_marketing
 This repository showcases Excel processes to assist Game Co, a video game company with customers around the world, at planning for a marketing campaign.
 
+![Total regional sales from 1980 to 2016](sales.jpg)
+
 ## Project Overview
 ### Motivation
 GameCo aims to leverage data for informed game development. Utilizing descriptive analysis on a video game sales dataset, the goal is to gain insights into how GameCo's new games could perform in the market.
